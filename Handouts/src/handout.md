@@ -65,6 +65,7 @@ However it is important to consider research data management beyond backing up d
 
 ## Funder requirements 
 
+[EPSRC policy framework on research data](https://www.epsrc.ac.uk/about/standards/researchdata/)
 
 ## Open Science 
 
@@ -78,6 +79,9 @@ However it is important to consider research data management beyond backing up d
 
 ## Particular issues for the Engineering and Physical Sciences Faculty
 
+### Funder policies
+
+[EPSRC policy framework on research data](https://www.epsrc.ac.uk/about/standards/researchdata/)
 
 ### Software Sustainability Institue 
 TODO description of SSI 
