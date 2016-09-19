@@ -84,7 +84,7 @@ TODO description of SSI
 
 [How does software fit into EPSRC’s research data policy?,  Neil Chue Hong, Software Sustainability Institute](https://www.software.ac.uk/resources/guides/epsrc-research-data-policy-and-software)
 
-
+[Choosing an open-source licence, Neil Chue Hong and Tim Parkinson, Software Sustainability Institute](https://www.software.ac.uk/resources/guides/adopting-open-source-licence)
 
 [^1]:[http://www.ucl.ac.uk/isd/services/research-it/documents/uclresearchdatapolicy.pdf]()
 [^2]:
