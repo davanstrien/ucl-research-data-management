@@ -22,6 +22,11 @@ samples.'[^2]
 
 In the Faculty of Engineering Sciences at UCL research data will incorporate a broad range of different types of material. Some of this may be data commonly found in other disciplines, whilst other data will very specific to a particular research project.   
 
+Research Data
+> 'Recorded, factual material commonly retained by and accepted in the [research] community as necessary to validate research findings; although the majority of such data is created in digital format, all research data is included irrespective of the format in which it is created.'
+Engineering and Physical Sciences Research Council (EPSRC)
+
+
 # What is research data management? 
 
 Research data management can be described as:
