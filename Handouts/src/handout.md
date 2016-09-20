@@ -75,7 +75,7 @@ However it is important to consider research data management beyond backing up d
 
 # Further support 
 
-
+[Delivering a Culture of Wisdom - The 2011 UCL Research Strategy](http://www.ucl.ac.uk/research/vision-strategy)
 
 ## Particular issues for the Engineering and Physical Sciences Faculty
 
