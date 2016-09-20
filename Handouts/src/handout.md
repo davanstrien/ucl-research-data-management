@@ -22,10 +22,9 @@ samples.'[^2]
 
 In the Faculty of Engineering Sciences at UCL research data will incorporate a broad range of different types of material. Some of this may be data commonly found in other disciplines, whilst other data will very specific to a particular research project.   
 
-Research Data
+The EPSRC give the following definition of Research Data:
 > 'Recorded, factual material commonly retained by and accepted in the [research] community as necessary to validate research findings; although the majority of such data is created in digital format, all research data is included irrespective of the format in which it is created.'
 Engineering and Physical Sciences Research Council (EPSRC)
-
 
 # What is research data management? 
 
@@ -70,9 +69,25 @@ However it is important to consider research data management beyond backing up d
 
 ## Funder requirements 
 
+Increasingly funders are introducing requirements around research data management. Following the UCL Research Data Management policy will help you with the following.
+
+
+**Complying** with funder requirements. If you are funded by the EPSRC and publish a paper there is already an expectation that the related data will be made available where appropriate. Other funders have a variety of expectations but following the UCL policy will help you comply with the majority of these policies. 
+
+
+**Apply** for research funding: because many research data funders are placing an increased importance on research data management and sharing, considering these issues before you apply will help you in developing funding proposals and demonstrate to researchers that your research will have the maximum possible impact. 
+
+
+**Share** your research: many research funders are asking researchers to share the research data which supports their publications. I will return to the concerns about sharing in a moment but if you are required to share your research data the UCL policy will help ensure this is done effectively. 
+
 [EPSRC policy framework on research data](https://www.epsrc.ac.uk/about/standards/researchdata/)
 
 ## Open Science 
+
+Research data management, and in particular, the sharing of research data is part of a broader shift to 'openness' in scholarly research and publishing practices. Sharing research data has a number of benefits to researchers. 
+
+**Citations** have been shown to be higher when the underlying study is exposed. TODO 
+
 
 
 
@@ -84,11 +99,11 @@ However it is important to consider research data management beyond backing up d
 
 ## Particular issues for the Engineering and Physical Sciences Faculty
 
-### Funder policies
+## Funder policies
 
 [EPSRC policy framework on research data](https://www.epsrc.ac.uk/about/standards/researchdata/)
 
-### Software Sustainability Institue 
+## Software Sustainability Institue 
 TODO description of SSI 
 
 [How does software fit into EPSRC’s research data policy?,  Neil Chue Hong, Software Sustainability Institute](https://www.software.ac.uk/resources/guides/epsrc-research-data-policy-and-software)
@@ -101,3 +116,9 @@ UCL Research Data Policy, Paul Ayris, (2013), p.2
 [^3]: Pryor, G., 2012. Preface. *Managing research data*, vii. 
 [^4]: UCL Research Data Policy, p.4 
 
+
+ 
+
+
+
+ 
