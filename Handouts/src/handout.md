@@ -38,21 +38,7 @@ The UCL Research Data Management policy aims to
 
 > 'provide a framework to define the responsibilities of all UCL members and to guide researchers and students in how to manage the data, enabling research data to be maintained and preserved as a first class research object and made available to widest possible audience for the highest possible impact’
 
-The UCL policy does this by outlining a range of expectations for researchers who should:
-
->Develop and record appropriate procedures and processes for the collection, storage, use, re-use, access, and retention of the research data associated with their research program;
-
->Establish and document agreements for research data management when involved in a joint research project, collaborative research or research undertaken in accordance with a contractual agreement.
-
->Ensure that the integrity and security of their data is maintained;
-
->Be aware of their obligations and potential liability when handling data protected by the UK Data Protection Act (1998);
-
->Plan for the on-going custodial responsibilities for the research data at the conclusion of the research project or on departure from the University;
-
->Include recommendations in Data Management Planning to the Head of Department or research Unit for destruction of research data;
-
->Include within research grant proposals appropriate consideration of the cost and time implications of data storage & management within grant proposals.[^4]
+The UCL policy does this by outlining a range of expectations for researchers in particular forming a Research Data Management Plan (discussed below). 
 
 # Why make the effort? 
 
