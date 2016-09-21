@@ -98,14 +98,6 @@ TODO description of SSI
 [Choosing an open-source licence, Neil Chue Hong and Tim Parkinson, Software Sustainability Institute](https://www.software.ac.uk/resources/guides/adopting-open-source-licence)
 
 [^1]:[http://www.ucl.ac.uk/isd/services/research-it/documents/uclresearchdatapolicy.pdf]()
-[^2]:
-UCL Research Data Policy, Paul Ayris, (2013), p.2
+[^2]: UCL Research Data Policy, Paul Ayris, (2013), p.2
 [^3]: Pryor, G., 2012. Preface. *Managing research data*, vii. 
 [^4]: UCL Research Data Policy, p.4 
-
-
- 
-
-
-
- 
