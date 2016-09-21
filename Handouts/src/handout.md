@@ -83,7 +83,8 @@ Research data management, and in particular, the sharing of research data is par
 
 Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with Multiple Isoforms http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048745
 
-
+Does broadband access make UK firms more successful?
+https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=180
 
 
 
