@@ -8,6 +8,8 @@ author: Daniel van Strien
 
 With the growth of electronic data resulting from research, the desire for funders to get maximum benefit from their spending and a general shift to open scholarly practices research data management has become an increasingly important issue for researchers at all stages of their research careers. The UCL research data management policy[^1]intends to help researchers effectively manage their research data. 
 
+This handout outlines some of the main reasons to follow the UCL Research Data Management policy and suggest resources to help you do this. 
+
 # What is research data?
 
 The UCL Research Data Management policy defines research data as:
