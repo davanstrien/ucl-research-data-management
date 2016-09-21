@@ -77,7 +77,7 @@ Research data management, and in particular, the sharing of research data is par
 
 **Reproducible** exposing your research data allows other to interrogate your data, verify your methods and confirm or disprove your findings.
 
-**Data reuse**: opening and sharing your data may lead to it being used in different ways, expanded upon and combined with other data. This again earns you recognition but also advances research in your discipline.
+**Data reuse**: opening and sharing your data may lead to it being used in different ways, expanded upon and combined with other data. This again earns you recognition but also advances research in your discipline. One common use of open data is to assist in teaching by allowing studnets to work with real datasets. 
 
 ## Open Science case studies
 
