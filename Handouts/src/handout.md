@@ -75,7 +75,11 @@ Research data management, and in particular, the sharing of research data is par
 
 **Citations** have been shown to be higher when the underlying study is exposed. TODO 
 
+**Reproducible** exposing your research data allows other to interrogate your data, verify your methods and confirm or disprove your findings.
 
+**Data reuse**: opening and sharing your data may lead to it being used in different ways, expanded upon and combined with other data. This again earns you recognition but also advances research in your discipline.
+
+## Data reuse case studies
 
 
 
