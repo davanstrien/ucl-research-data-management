@@ -86,7 +86,10 @@ Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with M
 Does broadband access make UK firms more successful?
 https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=180
 
+Reanalyses of Randomized Clinical Trial Data 
+http://jama.jamanetwork.com/article.aspx?articleid=1902230
 
+https://www.buzzfeed.com/bengoldacre/deworming-trials?utm_term=.ndjvqjz5b#.pc9nre5mq
 
 # Further support 
 
