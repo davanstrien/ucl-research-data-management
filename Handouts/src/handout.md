@@ -6,8 +6,7 @@ author: Daniel van Strien
 
 ## Introduction
 
-With the growth of electronic data resulting from research, the desire for funders to get maximum benefit from their spending and a general shift to open scholarly practices research data management has become an increasingly important issue for researchers at all stages of their research career. The UCL research data management policy[^1]intends to help researchers effectively manage their research data. 
-
+With the growth of electronic data resulting from research, the desire for funders to get maximum benefit from their spending and a general shift to open scholarly practices research data management has become an increasingly important issue for researchers at all stages of their research careers. The UCL research data management policy[^1]intends to help researchers effectively manage their research data. 
 
 # What is research data?
 
