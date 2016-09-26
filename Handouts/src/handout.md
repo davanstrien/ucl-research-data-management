@@ -21,17 +21,17 @@ With the growth of electronic data resulting from research, the desire for funde
 
 Following the UCL Research Data Management Policy will make you compliant with the majority of research funders. However it is important to check your funders requirements.  
 
-* EPSRC policy framework on research data <https://www.epsrc.ac.uk/about/standards/researchdata>/
+* EPSRC policy framework on research data: <https://www.epsrc.ac.uk/about/standards/researchdata>
 
-* [RCUK Common Principles on Data Policy](http://www.rcuk.ac.uk/research/datapolicy/)  
+* RCUK Common Principles on Data Policy: <http://www.rcuk.ac.uk/research/datapolicy/>  
 
-* [Links](http://www.ucl.ac.uk/library/research-support/research-data) to the Policies of a large number of funders can be found on the UCL Research Data Management page. 
+* Links to the Policies of a large number of funders can be found on the UCL Research Data Management page: <http://www.ucl.ac.uk/library/research-support/research-data>
 
 # Research Data Management services at UCL
 
-* [There is a broad range of support available for Research Data Management at UCL.](http://www.ucl.ac.uk/library/research-support/research-data)
+* There is a broad range of support available for Research Data Management at UCL: <http://www.ucl.ac.uk/library/research-support/research-data>
 
-* [The Research Data Services](http://www.ucl.ac.uk/isd/services/research-it/research-data) can provide research data storage solutions. 
+* The Research Data Services can provide research data storage for researchers for the duration of their project: <http://www.ucl.ac.uk/isd/services/research-it/research-data>
 
 
 ## Data reuse case studies 
@@ -60,6 +60,8 @@ https://www.buzzfeed.com/bengoldacre/deworming-trials?utm_term=.ndjvqjz5b#.pc9nr
  
 
 ## Software
+
+Software is becoming an increasingly important research output across many disciplines. The Research Software Dashboard provides researchers with a place to share research code alongside other research outputs: <https://dashboard.rc.ucl.ac.uk/>
 
 ### Software Sustainability Institute 
 
