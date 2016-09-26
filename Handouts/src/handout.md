@@ -3,40 +3,7 @@ title: Research Data Management for the faculty of Engineering Sciences
 author: Daniel van Strien
 geometry: margin=2.5cm
 ---
-
-
 This handout can also be found online: [github.com/davanstrien/ucl-research-data-management](https://github.com/davanstrien/ucl-research-data-management)
-
-## Introduction
-
-With the growth of electronic data resulting from research, the desire for funders to get maximum benefit from their spending and a general shift to open scholarly practices research data management has become an increasingly important issue for researchers at all stages of their research careers. The UCL research data management policy[^1]intends to help researchers effectively manage their research data. 
-
-This handout outlines some of the main reasons to follow the UCL Research Data Management policy and suggest resources to help you do this. 
-
-# What is research data?
-
-The UCL Research Data Management policy defines research data as:
-
-> 'facts, observations or experiences on which an argument or theory is constructed or tested. Data may
-be numerical, descriptive, aural or visual. Data may be raw, abstracted or analysed, experimental or
-observational. Data include but are not limited to: laboratory notebooks; field notebooks; primary research data
-(including research data in hardcopy or in computer readable form); questionnaires; audiotapes; videotapes;
-models; photographs; films; test responses. Research collections may include slides; artefacts; specimens;
-samples.'[^2] 
-
-In the Faculty of Engineering Sciences at UCL research data will incorporate a broad range of different types of material. Some of this may be data commonly found in other disciplines, whilst other data will very specific to a particular research project.   
-
-The EPSRC give the following definition of Research Data:
-> 'Recorded, factual material commonly retained by and accepted in the [research] community as necessary to validate research findings; although the majority of such data is created in digital format, all research data is included irrespective of the format in which it is created.'
-Engineering and Physical Sciences Research Council (EPSRC)
-
-# What is research data management? 
-
-Research data management can be described as:
-
->'an active process by which digital resources remain discoverable, accessible and intelligible over the longer term, a process that invests data and datasets with potential to accrue value as assets enjoying far wider us than their creators may have anticipated. In the world of research, such a value-adding process is a significant contributor to the much desired achievement of impact'. [^3]
-
-
 
 ## Introduction
 
