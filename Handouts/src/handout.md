@@ -4,7 +4,44 @@ author: Daniel van Strien
 geometry: margin=2.5cm
 ---
 
+<<<<<<< HEAD
 This handout can also be found online: [github.com/davanstrien/ucl-research-data-management](https://github.com/davanstrien/ucl-research-data-management)
+=======
+## Introduction
+
+With the growth of electronic data resulting from research, the desire for funders to get maximum benefit from their spending and a general shift to open scholarly practices research data management has become an increasingly important issue for researchers at all stages of their research careers. The UCL research data management policy[^1]intends to help researchers effectively manage their research data. 
+
+This handout outlines some of the main reasons to follow the UCL Research Data Management policy and suggest resources to help you do this. 
+
+# What is research data?
+
+The UCL Research Data Management policy defines research data as:
+
+> 'facts, observations or experiences on which an argument or theory is constructed or tested. Data may
+be numerical, descriptive, aural or visual. Data may be raw, abstracted or analysed, experimental or
+observational. Data include but are not limited to: laboratory notebooks; field notebooks; primary research data
+(including research data in hardcopy or in computer readable form); questionnaires; audiotapes; videotapes;
+models; photographs; films; test responses. Research collections may include slides; artefacts; specimens;
+samples.'[^2] 
+
+In the Faculty of Engineering Sciences at UCL research data will incorporate a broad range of different types of material. Some of this may be data commonly found in other disciplines, whilst other data will very specific to a particular research project.   
+
+The EPSRC give the following definition of Research Data:
+> 'Recorded, factual material commonly retained by and accepted in the [research] community as necessary to validate research findings; although the majority of such data is created in digital format, all research data is included irrespective of the format in which it is created.'
+Engineering and Physical Sciences Research Council (EPSRC)
+
+# What is research data management? 
+
+Research data management can be described as:
+
+>'an active process by which digital resources remain discoverable, accessible and intelligible over the longer term, a process that invests data and datasets with potential to accrue value as assets enjoying far wider us than their creators may have anticipated. In the world of research, such a value-adding process is a significant contributor to the much desired achievement of impact'. [^3]
+
+# The UCL Research Data Management policy 
+
+The UCL Research Data Management policy aims to
+
+> 'provide a framework to define the responsibilities of all UCL members and to guide researchers and students in how to manage the data, enabling research data to be maintained and preserved as a first class research object and made available to widest possible audience for the highest possible impact’
+>>>>>>> 20cb7c7255fc60b32f23e7fdd45d985cc8ddb4c8
 
 ## Introduction
 
@@ -27,6 +64,7 @@ Following the UCL Research Data Management Policy will make you compliant with t
 
 * [RCUK Common Principles on Data Policy](http://www.rcuk.ac.uk/research/datapolicy/)  
 
+<<<<<<< HEAD
 * [Links](http://www.ucl.ac.uk/library/research-support/research-data) to the Policies of a large number of funders can be found on the UCL Research Data Management page. 
 
 # Research Data Management services at UCL
@@ -34,7 +72,23 @@ Following the UCL Research Data Management Policy will make you compliant with t
 * [There is a broad range of support available for Research Data Management at UCL.](http://www.ucl.ac.uk/library/research-support/research-data)
 
 * [The Research Data Services](http://www.ucl.ac.uk/isd/services/research-it/research-data) can provide research data storage solutions. 
+=======
+**Reproducible** exposing your research data allows other to interrogate your data, verify your methods and confirm or disprove your findings.
 
+**Data reuse**: opening and sharing your data may lead to it being used in different ways, expanded upon and combined with other data. This again earns you recognition but also advances research in your discipline. One common use of open data is to assist in teaching by allowing studnets to work with real datasets. 
+
+## Open Science case studies
+
+Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with Multiple Isoforms http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048745
+>>>>>>> 20cb7c7255fc60b32f23e7fdd45d985cc8ddb4c8
+
+Does broadband access make UK firms more successful?
+https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=180
+
+Reanalyses of Randomized Clinical Trial Data 
+http://jama.jamanetwork.com/article.aspx?articleid=1902230
+
+https://www.buzzfeed.com/bengoldacre/deworming-trials?utm_term=.ndjvqjz5b#.pc9nre5mq
 
 
 ## Software
@@ -51,6 +105,7 @@ A number of case studies highlighting the exciting possibilities of data reuse.
 
 [Oyster gives up pearls](http://www.engineering.ucl.ac.uk/projects/oyster-gives-up-pearls/) a project at UCL making use of TFL data on underground journeys using Oyster cards. 
 
+<<<<<<< HEAD
 
 
 
@@ -60,3 +115,12 @@ A number of case studies highlighting the exciting possibilities of data reuse.
 
 [Open Digital Science - Final study report, European Commission](https://ec.europa.eu/digital-single-market/en/news/open-digital-science-final-study-report)
  
+=======
+[^1]:[http://www.ucl.ac.uk/isd/services/research-it/documents/uclresearchdatapolicy.pdf]()
+
+[^2]:UCL Research Data Policy, Paul Ayris, (2013), p.2
+
+[^3]:Pryor, G., 2012. Preface. *Managing research data*, vii. 
+
+[^4]:UCL Research Data Policy, p.4 
+>>>>>>> 20cb7c7255fc60b32f23e7fdd45d985cc8ddb4c8
