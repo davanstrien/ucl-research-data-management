@@ -1,82 +1,62 @@
 ---
-title: Resources for Research Data Management in the faculty of Engineering Sciences
+title: Research Data Management for the faculty of Engineering Sciences
 author: Daniel van Strien
-
+geometry: margin=2.5cm
 ---
+
+This handout can also be found online: [github.com/davanstrien/ucl-research-data-management](https://github.com/davanstrien/ucl-research-data-management)
 
 ## Introduction
 
-With the growth of electronic data resulting from research, the desire for funders to get maximum benefit from their spending and a general shift to open scholarly practices research data management has become an increasingly important issue for researchers at all stages of their research career. The UCL research data management policy[^1]intends to help researchers effectively manage their research data. 
+With the growth of electronic data resulting from research, the desire for funders to get maximum benefit from their spending and a general shift to open scholarly practices research data management has become an increasingly important issue for researchers at all stages of their research career. The UCL research data management policy intends to help researchers effectively manage their research data. This handout outlines support, further resources and research relevant to researchers in the Faculty of Engineering Sciences. 
 
-# Resources for Research Data Management
+# Policies 
 
 ## UCL 
 
+* The main expectations around Research Data Management are outlined in the
+ [UCL Research Data Policy](http://www.ucl.ac.uk/library/research-support/research-data/policies). 
+ 
+* [Delivering a Culture of Wisdom - The 2011 UCL Research Strategy](http://www.ucl.ac.uk/research/vision-strategy) outlines the broader UCL vision for research which includes discussion of research data. 
+
 ## Funders 
 
-* ucl policy and funder policies. 
+Following the UCL Research Data Management Policy will make you compliant with the majority of research funders. However it is important to check your funders requirements.  
 
-[EPSRC policy framework on research data](https://www.epsrc.ac.uk/about/standards/researchdata/)
+* [EPSRC policy framework on research data](https://www.epsrc.ac.uk/about/standards/researchdata/)
 
-link to other research funder policies 
+* [RCUK Common Principles on Data Policy](http://www.rcuk.ac.uk/research/datapolicy/)  
 
-## Open Science 
+* [Links](http://www.ucl.ac.uk/library/research-support/research-data) to the Policies of a large number of funders can be found on the UCL Research Data Management page. 
 
-Research data management, and in particular, the sharing of research data is part of a broader shift to 'openness' in scholarly research and publishing practices. Sharing research data has a number of benefits to researchers. 
+# Research Data Management services at UCL
 
-A number of studies have found that authors who publish the underlying data receive higher **citations** for their research. The increase varies across in different studies and disciplines but is always positive. 
+* [There is a broad range of support available for Research Data Management at UCL.](http://www.ucl.ac.uk/library/research-support/research-data)
 
-Making your underlying data available will increase the **reproducibility** of your research. Other researchers will be able to interrogate your data, verify your methods and confirm or disprove your findings. This may be welcomed with some trepidation but ultimately this helps increase academic rigour.
-
-**Sharing** research data offers particularly exciting possibilities. Your data may be used for other projects, combined with other data, or be expanded upon. Sometimes this will be to carry out a similar project, helping you verify your findings, whilst other times the research may use your data for a very different kind of project. Following the UCL Research Data Management policy will help ensure your data is citable. As Open Science approaches become more widespread data sharing will begin to be more fully recognised as a scholarly contribution. 
-
-## Software 
-
-# Potential difficulties   
-
-
-Responses to common issues are discussed below. More support can be found at the end of this document. 
-
-## I am worried about Intellectual Property 
+* [The Research Data Services](http://www.ucl.ac.uk/isd/services/research-it/research-data) can provide research data storage solutions. 
 
 
 
-## My data is not useful for others
+## Software
 
-Sometimes researchers think that their data is too specific to their project to be useful for others. Although this may sometimes be true exposing your data still comes with the other benefits discussed above, and is still often required by funders. It is also difficult to anticipate how your data may be used. Researchers may find it useful for something you hadn't anticipated. The growth of text and data mining in particular may mean your data is used as part of a much bigger collection of data. 
+### Software Sustainability Institute 
 
-Sometimes this concern is related to the difficulty of understanding the data. This does not necessarily have to be a concern. Making your data available publicly does not mean that everyone is going to be able to understand your research. It is likely that the majority of people making use of your data will be other researchers in your discipline or a closely related one. However sometimes this concern relates more to 'messy data'. Although this can be an issue with any project, trying to implement good Research Data Management plans before beginning your project will help you ensure your data is well organised and documented. 
+* [How does software fit into EPSRC’s research data policy?,  Neil Chue Hong, Software Sustainability Institute](https://www.software.ac.uk/resources/guides/epsrc-research-data-policy-and-software)
 
-## I don't know enough about Research Data Management 
+* [Choosing an open-source licence, Neil Chue Hong and Tim Parkinson, Software Sustainability Institute](https://www.software.ac.uk/resources/guides/adopting-open-source-licence)
 
-You do not have to become an expert in Research Data Management. The Research Data Service at UCL exists to provide support to researchers. These services include helping researchers develop research data management plans, data storage during your research project, and offering support on long term storage (a UCL data archive is currently being piloted). More resources are highlighted below. 
+## Data reuse case studies 
 
-# Further support 
+A number of case studies highlighting the exciting possibilities of data reuse. 
 
-[Delivering a Culture of Wisdom - The 2011 UCL Research Strategy](http://www.ucl.ac.uk/research/vision-strategy)
-
-## Particular issues for the Engineering and Physical Sciences Faculty
-
-## Funder policies
-
-[EPSRC policy framework on research data](https://www.epsrc.ac.uk/about/standards/researchdata/)
-
-## Software Sustainability Institue 
-TODO description of SSI 
-
-[How does software fit into EPSRC’s research data policy?,  Neil Chue Hong, Software Sustainability Institute](https://www.software.ac.uk/resources/guides/epsrc-research-data-policy-and-software)
-
-[Choosing an open-source licence, Neil Chue Hong and Tim Parkinson, Software Sustainability Institute](https://www.software.ac.uk/resources/guides/adopting-open-source-licence)
-
-[^1]:[http://www.ucl.ac.uk/isd/services/research-it/documents/uclresearchdatapolicy.pdf]()
-[^2]:
-UCL Research Data Policy, Paul Ayris, (2013), p.2
-[^3]: Pryor, G., 2012. Preface. *Managing research data*, vii. 
-[^4]: UCL Research Data Policy, p.4 
-
-
- 
+[Oyster gives up pearls](http://www.engineering.ucl.ac.uk/projects/oyster-gives-up-pearls/) a project at UCL making use of TFL data on underground journeys using Oyster cards. 
 
 
 
+
+## Open Science
+
+[Open to All? Case studies of openness in research](http://www.rin.ac.uk/system/files/attachments/NESTA-RIN_Open_Science_V01_0.pdf)  
+
+[Open Digital Science - Final study report, European Commission](https://ec.europa.eu/digital-single-market/en/news/open-digital-science-final-study-report)
  
