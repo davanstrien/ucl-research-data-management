@@ -38,17 +38,16 @@ Following the UCL Research Data Management Policy will make you compliant with t
 
 A number of case studies highlighting the exciting possibilities of data reuse. 
 
-[Oyster gives up pearls](http://www.engineering.ucl.ac.uk/projects/oyster-gives-up-pearls/) a project at UCL making use of TFL data on underground journeys using Oyster cards. 
+Oyster gives up pearls - a project at UCL making use of TFL data on underground journeys using Oyster cards. <(http://www.engineering.ucl.ac.uk/projects/oyster-gives-up-pearls/>
 
 [Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with Multiple Isoforms] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048745>
 
+Does broadband access make UK firms more successful?
+<https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=180>
+
+
 
 ## Open Science 
-
-
-
-Does broadband access make UK firms more successful?
-https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=180
 
 Reanalyses of Randomized Clinical Trial Data 
 http://jama.jamanetwork.com/article.aspx?articleid=1902230
