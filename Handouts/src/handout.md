@@ -27,6 +27,8 @@ Following the UCL Research Data Management Policy will make you compliant with t
 
 * Links to the Policies of a large number of funders can be found on the UCL Research Data Management page: <http://www.ucl.ac.uk/library/research-support/research-data>
 
+## Data Protection, Intellectual Property and Copyright
+
 # Research Data Management services at UCL
 
 * There is a broad range of support available for Research Data Management at UCL: <http://www.ucl.ac.uk/library/research-support/research-data>
