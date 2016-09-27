@@ -45,7 +45,7 @@ Oyster gives up pearls - a project at UCL making use of TFL data on underground 
 
 Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with Multiple Isoforms - an example of new insights from reanalysing data: <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048745>
 
-Does broadband access make UK firms more successful?
+Does broadband access make UK firms more successful? - a case study of data reuse by the UK Data Service.
 <https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=180>
 
 
