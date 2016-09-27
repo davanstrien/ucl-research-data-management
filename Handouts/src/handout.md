@@ -38,7 +38,7 @@ Following the UCL Research Data Management Policy will make you compliant with t
 
 A number of case studies highlighting the exciting possibilities of data reuse. 
 
-Oyster gives up pearls - a project at UCL making use of TFL data on underground journeys using Oyster cards. <(http://www.engineering.ucl.ac.uk/projects/oyster-gives-up-pearls/>
+Oyster gives up pearls - a project at UCL making use of TFL data on underground journeys using Oyster cards. <http://www.engineering.ucl.ac.uk/projects/oyster-gives-up-pearls/>
 
 [Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with Multiple Isoforms] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048745>
 
