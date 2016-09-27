@@ -40,10 +40,12 @@ A number of case studies highlighting the exciting possibilities of data reuse.
 
 [Oyster gives up pearls](http://www.engineering.ucl.ac.uk/projects/oyster-gives-up-pearls/) a project at UCL making use of TFL data on underground journeys using Oyster cards. 
 
+[Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with Multiple Isoforms] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048745>
+
 
 ## Open Science 
 
-Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with Multiple Isoforms http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048745
+
 
 Does broadband access make UK firms more successful?
 https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=180
