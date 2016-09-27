@@ -30,7 +30,7 @@ Following the UCL Research Data Management Policy will make you compliant with t
 ## Data Protection, Intellectual Property and Copyright
 It is important to be aware of other potential issues surrounding your research data, in particular when you are working with sensitive and personal data. There are a range of How-to guides available that advice on some of these issues: <http://www.ucl.ac.uk/library/research-support/research-data/best-practices#guides>
 
-# Research Data Management services at UCL
+## Research Data Management services at UCL
 
 * There is a broad range of support available for Research Data Management at UCL: <http://www.ucl.ac.uk/library/research-support/research-data>
 
@@ -49,12 +49,10 @@ Does broadband access make UK firms more successful? - a case study of data reus
 <https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=180>
 
 
-
 ## Open Science 
 
 Reanalyses of Randomized Clinical Trial Data 
 http://jama.jamanetwork.com/article.aspx?articleid=1902230
-
 
 https://www.buzzfeed.com/bengoldacre/deworming-trials?utm_term=.ndjvqjz5b#.pc9nre5mq
 
