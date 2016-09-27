@@ -1,4 +1,3 @@
-<!---
 ## Open Science 
 
 * Science as an open enterprise: <https://royalsociety.org/topics-policy/projects/science-public-enterprise/report/> 
@@ -23,6 +22,6 @@ Software is becoming an increasingly important research output across many disci
 
 * Choosing an open-source licence, Neil Chue Hong and Tim Parkinson, Software Sustainability Institute: <https://www.software.ac.uk/resources/guides/adopting-open-source-licence>
 
-* Jupyter notebooks allow researchers to share code and data analysis in a transparent and reproducible format. Jupyter notebooks are also an excellent way of teaching students coding: <http://jupyter.org/> --->
+* Jupyter notebooks allow researchers to share code and data analysis in a transparent and reproducible format. Jupyter notebooks are also an excellent way of teaching students coding: <http://jupyter.org/> 
 
 * why-scientists-must-share-their-research-code: <http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504>
