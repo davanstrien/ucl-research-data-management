@@ -65,7 +65,7 @@ https://www.buzzfeed.com/bengoldacre/deworming-trials?utm_term=.ndjvqjz5b#.pc9nr
 
 Software is becoming an increasingly important research output across many disciplines. The Research Software Dashboard provides researchers with a place to share research code alongside other research outputs: <https://dashboard.rc.ucl.ac.uk/>
 
-### Software Sustainability Institute 
+* Software Carpentry aims to 'Teach basic lab skillsfor research computing': <https://software-carpentry.org>
 
 * [How does software fit into EPSRC’s research data policy?,  Neil Chue Hong, Software Sustainability Institute](https://www.software.ac.uk/resources/guides/epsrc-research-data-policy-and-software)
 
