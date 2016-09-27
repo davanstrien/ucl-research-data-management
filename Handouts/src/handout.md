@@ -41,9 +41,9 @@ It is important to be aware of other potential issues surrounding your research 
 
 A number of case studies highlighting the exciting possibilities of data reuse. 
 
-Oyster gives up pearls - a project at UCL making use of TFL data on underground journeys using Oyster cards. <http://www.engineering.ucl.ac.uk/projects/oyster-gives-up-pearls/>
+Oyster gives up pearls - a project at UCL making use of TFL data on underground journeys using Oyster cards: <http://www.engineering.ucl.ac.uk/projects/oyster-gives-up-pearls/>
 
-[Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with Multiple Isoforms] <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048745>
+Reanalysis of RNA-Sequencing Data Reveals Several Additional Fusion Genes with Multiple Isoforms - an example of new insights from reanalysing data: <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0048745>
 
 Does broadband access make UK firms more successful?
 <https://www.ukdataservice.ac.uk/use-data/data-in-use/case-study/?id=180>
