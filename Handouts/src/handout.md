@@ -50,8 +50,7 @@ A number of case studies highlighting the exciting possibilities of data reuse.
 
 ## Open Science 
 
-Reanalyses of Randomized Clinical Trial Data 
-http://jama.jamanetwork.com/article.aspx?articleid=1902230
+* Reanalyses of Randomized Clinical Trial Data <http://jama.jamanetwork.com/article.aspx?articleid=1902230>
 
 https://www.buzzfeed.com/bengoldacre/deworming-trials?utm_term=.ndjvqjz5b#.pc9nre5mq
 
