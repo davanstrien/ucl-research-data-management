@@ -14,6 +14,8 @@
 
 Software is becoming an increasingly important research output across many disciplines. 
 
+https://github.com/duecredit/duecredit 
+
 * The UCL Research Software Dashboard provides researchers with a place to share research code alongside other research outputs: <https://dashboard.rc.ucl.ac.uk/>
 
 * Software Carpentry aims to 'Teach basic lab skills for research computing': <https://software-carpentry.org>
