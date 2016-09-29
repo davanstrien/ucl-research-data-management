@@ -1,10 +1,12 @@
 ---
 author:
-- Daniel van Strien 
+- Daniel van Strien \\ \@vanstriendaniel 
 subtitle: 
 title: Research Data Management 
 fontsize: 17pt
 ---
+
+
 
 * What is the UCL Research Data Management Policy?
 * 3 benefits from following the policy
@@ -19,9 +21,9 @@ Research Data Management?
 #### UCL Research Data Management Policy 
 
 
-* \tiny Members can fulfil the requirements of good research practice by enabling them to manage research data in a manner that maximises data impact and acknowledges data value as a primary research output... 
-* Responsibility for managing and preserving research data is shared between all members of the college. 
-* ...following primary use (e.g. publication)...data be made available in the most open manner appropriate. 
+* ...manage research data in a manner that maximises data impact and acknowledges data value as a primary research output... 
+* Responsibility for managing...research data is shared  
+* ...following primary use...data be made available in the most open manner appropriate. 
 
 
 ---
@@ -50,7 +52,12 @@ Research Data Management?
 
 * More citations
 * Reproducible 
-* Reuse 
+
+#### Reuse 
+* Researchers are already reusing data
+* Expanded, combined, repurposed 
+* Teaching
+* Industry
 
 ---
 
@@ -66,4 +73,4 @@ Research Data Management?
 
 * \url{github.com/davanstrien/ucl-research-data-management}
 
-
+* davanstrien@gmail.com
