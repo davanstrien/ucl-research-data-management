@@ -2,5 +2,5 @@ This repository contains material for a session on Research Data Management for 
 
 * A copy of the handout can be found [here](https://github.com/davanstrien/ucl-research-data-management/tree/master/handout)
 
-* A copy of the slides can be found [here]()
+* A copy of the slides can be found [here](https://github.com/davanstrien/ucl-research-data-management/blob/master/slides/Pandoc-Beamer/RDM.md.slides.pdf)
 
