@@ -1,5 +1,3 @@
-[http://www.nature.com/news/why-scientists-must-share-their-research-code-1.20504]()
-
 ## Open Science 
 
 * Science as an open enterprise: <https://royalsociety.org/topics-policy/projects/science-public-enterprise/report/> 
