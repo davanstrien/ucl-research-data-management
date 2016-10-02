@@ -4,3 +4,5 @@ This repository contains material for a session on Research Data Management for 
 
 * A copy of the slides can be found [here](https://github.com/davanstrien/ucl-research-data-management/blob/master/slides/Pandoc-Beamer/RDM.md.slides.pdf)
 
+* Further reading on Open Science and data sharing can be found [here](https://github.com/davanstrien/ucl-research-data-management/blob/master/resources/resources.md)
+
