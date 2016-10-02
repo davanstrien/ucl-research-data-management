@@ -60,7 +60,6 @@ fontsize: 17pt
 * Researchers are already reusing data
 * Expanded, combined, repurposed 
 * Teaching
-* Industry
 
 ---
 
