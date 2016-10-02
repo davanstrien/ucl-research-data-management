@@ -6,4 +6,4 @@ This repository contains materials for a session on Research Data Management for
 
 * Further reading on Open Science and data sharing can be found [here](https://github.com/davanstrien/ucl-research-data-management/blob/master/resources/resources.md)
 
-* A bibliography can be found [here]()
+* A bibtex list of further reading can be found [here](https://github.com/davanstrien/ucl-research-data-management/blob/master/bib/rdm.bib)
