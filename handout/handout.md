@@ -1,9 +1,11 @@
 ---
 title: Research Data Management for the faculty of Engineering Sciences
 author: Daniel van Strien
-geometry: a4paper, top=1.5cm, left=2.5cm, right=3.0cm, bottom=2.0cm 
+date: 4/10/16
+geometry: a4paper, top=1.5cm, left=2.5cm, right=2.5cm, bottom=1.5cm 
+fontfamily: arev
 ---
-This handout can also be found online: [github.com/davanstrien/ucl-research-data-management](https://github.com/davanstrien/ucl-research-data-management)
+This handout along with references, care studies and further reading can found online: [github.com/davanstrien/ucl-research-data-management](https://github.com/davanstrien/ucl-research-data-management)
 
 <!---## Introduction
 
@@ -33,10 +35,13 @@ It is important to be aware of other potential issues surrounding your research 
 ## Research Data Management services at UCL
 
 * There is a broad range of support available for Research Data Management at UCL: <http://www.ucl.ac.uk/library/research-support/research-data>
+	- advice on research funder policies 
+	- reviewing researcher data management plans 
+	- training and guidance 
 
 * The Research Data Services can provide research data storage for researchers for the duration of their project: <http://www.ucl.ac.uk/isd/services/research-it/research-data>
 
-
+<!---
 ## Data reuse case studies 
 
 A number of case studies highlighting the exciting possibilities of data reuse. 
