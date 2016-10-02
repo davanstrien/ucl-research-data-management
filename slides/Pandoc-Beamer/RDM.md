@@ -8,8 +8,8 @@ fontsize: 17pt
 
 
 
-* What is the UCL Research Data Management Policy?
-* 3 benefits from following the policy
+* UCL Research Data Management Policy?
+* 3 reasons to follow the policy
 * Support available 
 
 ---
